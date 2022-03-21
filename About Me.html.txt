@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<style type="text/css">
+body{background-color:#FF007F}
+a{color:#CEFA05}
+
+html { background-color: #000; } 
+body
+
+</style>
+
+<html>
+
+<head>
+
+
+<title>Per Scholas Excercise 1</title>
+</head>
+<body>
+
+<h1><center><img src="title2.jpg"width=450 height=100></center></h1>
+
+<ul>
+<li>I love to travel! One thing on my bucket is to complete a road trip with family around all 50 states!</li>
+<li>Writing is another passion of mine! I keep a diary. I am currently writing my first book! And I write down everything!</li>
+<li>Paint is another form of self expression that I absolutely love! I have large paintings that I did in my spare time, mounted throughout my home! </li>
+<li>Did anyone ever grow up watching Hip Hop Harry as a child? If so, recall the song, "I love to Learn"...yup! That's me! </li>
+<li>Out of my many artisitc skills, interior decorating is at the top of the list! My favorite themes are either Luxe, Rustic Glam, and or Urban!</li>
+<li>I'm no chef but I do pretty well in the kitchen and love to cook new things! My speciality is soul food but I'd like to master international meals too!</li>
+<li>I love love love a good movie! My genres are action, urban and comedy! Currently, my favorite movie is "The Harder They Fall", it's a cowboy action film. Check it out!</li>
+<li>Lastly, I wouldn't be me if I wasn't competitve! I'm a winner, but a fair sport too!</li>
+
+			
